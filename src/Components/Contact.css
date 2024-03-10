@@ -13,11 +13,8 @@ button {
     border: none;
     border-radius: 8px;
 }
-.card{
-    display: flex;
-    position: relative;
-    margin-top: 0px;
-
+#wrapper{
+  display: flex;
 }
 .sub-content {
     width: 900px;
@@ -68,7 +65,7 @@ p > span {
     border-radius: 5px 0 0 5px;
     font-size: 16px;
     margin-right: -1px; /* Compensate for the border */
-  }
+   }
 
   .input-button-container button {
     padding: 10px 20px;

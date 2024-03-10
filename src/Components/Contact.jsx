@@ -15,7 +15,7 @@ export default function Contact() {
           <button>Read more <FaArrowRight/> </button>
         </div>
       </div>
-      <div className='card container'>
+      <div className='container' id='wrapper'>
         <div id="contact-left">
           <img src={ContactImg} alt="" />
         </div>
