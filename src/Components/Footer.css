@@ -1,0 +1,37 @@
+.footer {
+    background: #EFEFFE;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    height: 300px;
+    line-height: 1.9;
+}
+.Social-links {
+    margin-top: 4%;
+}
+#icons > ul{
+    margin-top: 2% ;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 30%;
+}
+#icons ul li {
+    list-style-type: none;
+}
+
+#icons ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+ul li {
+    list-style-type: none;
+
+}
+.bottom {
+    background: #EFEFFE;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+}

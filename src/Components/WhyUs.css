@@ -1,0 +1,35 @@
+.content {
+    margin-top: 9%;
+}
+.whyus-content {
+    margin-top: 5%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.right{
+    line-height: 30px;
+    margin-top: 2%;
+}
+.right > h3 {
+    font-size: 30px;
+}
+.right > p {
+    font-size: 20px;
+}
+.right  p {
+    margin-top: 2%;
+}
+ #para   {
+    line-height: 1.5;
+}
+.right > button {
+    margin-top: 6%;
+    width: 20%;
+}
+.play-btn {
+    position: absolute;
+    left: 25%;
+    margin-top: 190px;
+    cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.7), rgba(8,0,58,0)), url('../assets/hero.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;;
+}
+
+.hero-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 96%;
+    margin: auto;
+
+
+}
+.left{
+    text-align: left;
+    max-width: 800px;
+
+
+}
+.left > h2 {
+    font-size: 55px;
+
+}
+.left > h4 {
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    width: 80%;
+}
+.hero-btn {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 48%;
+}
+ .hero-btn >p{
+    margin-top: -5px;
+    color: black;
+    line-height: 0.5;
+  }
+  .play-icon{
+    position: absolute;
+    left: 64%;
+    top: 45%;
+    cursor: pointer;
+  }

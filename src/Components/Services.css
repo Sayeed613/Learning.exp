@@ -1,0 +1,25 @@
+.card {
+    margin-top: 9%;
+}
+.servies-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+    text-align: center;
+
+
+}
+.cards {
+    height: 450px;
+    width: 340px;
+    padding: 20px;
+    margin: 10px;
+    line-height: 1.4;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+#unique-card {
+    background-color: #FAF8E4;
+    width: 360px;
+
+}
